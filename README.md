@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Thiruaavinan 👋
 
-<!--
-**thiruaavinan/Thiruaavinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at Panimalar Engineering College (B.Tech IT, 2027)  
+📚 Foundation Student of IITM BS in Data Science  
+🤖 AI & Machine Learning Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+**Languages**  
+• Python | Java | C
+
+**Web Development**  
+• HTML | CSS | JavaScript | React
+
+**Data & ML**  
+• Pandas | NumPy | Scikit-learn | TensorFlow
+
+**Tools**  
+• Git | VS Code | Jupyter Notebook
+
+---
+
+### 📫 Connect with me
+- 📧 Email: thiruaavinanit@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/thiruaavinan)
