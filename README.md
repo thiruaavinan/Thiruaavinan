@@ -24,4 +24,4 @@
 
 ### 📫 Connect with me
 - 📧 Email: thiruaavinanit@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/thiruaavinan)
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/thiruaavinan](https://www.linkedin.com/in/thiruaavinan-baskar-3456652aa/))
